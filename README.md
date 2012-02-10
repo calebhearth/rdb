@@ -1,9 +1,6 @@
 RDI - Readme Driven Ideas
 =========================
 
-Overview
---------
-
 RDI is a repository of my ideas for future programming projects. Inspired the idea of [RDD] but with not nearly enough time to sit down and write code for all of my ideas, I simply spitball ideas into a README for the projects in potentia.
 
 Contributing
