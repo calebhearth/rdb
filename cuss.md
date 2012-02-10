@@ -23,7 +23,7 @@ Some consideration has been given to adding support for JavaScript and HTML prep
 
 Nevertheless, support could be accomplished provided fairly simply provided you promise not to assume that cuss will give you any variables outside of what you declare in your file.
 
-=== HTML
+### HTML
 
 * [HAML]
 * [ERB]
@@ -34,7 +34,7 @@ Nevertheless, support could be accomplished provided fairly simply provided you 
 * [Mediawiki]
 * ...
 
-=== Javascript
+### Javascript
 
 * [Coffee]
 * [IcedCoffee]
