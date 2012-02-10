@@ -1,0 +1,15 @@
+# Redpen
+
+Redpen is a simple way to create html from text.
+
+## Justification
+
+Redcloth was created because I was sick of LaTeX, writing HTML, and 
+yes--Markdown. Each of these methods for creating formatted text has its
+problems.
+
+## Syntax Reference
+
+### Emphasis
+
+Redpen supports emphasis in the form of *bolded*, /italicized/ and _underlined_ text.
